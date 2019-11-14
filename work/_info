@@ -1,0 +1,51 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/cygwin/home/ece4530f19/example-nios-sdram
+vcordicci
+!s110 1573705879
+!i10b 1
+!s100 Xe9n?cHRaz`nEXeU[6XM60
+I`gTo2[^^C>QmNXog1_l<a1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1573687868
+8C:/cygwin/home/ece4530f19/example-nios-sdram/cordicci.v
+FC:/cygwin/home/ece4530f19/example-nios-sdram/cordicci.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1573705879.000000
+!s107 C:/cygwin/home/ece4530f19/example-nios-sdram/cordicci.v|
+!s90 -reportprogress|300|-work|work|C:/cygwin/home/ece4530f19/example-nios-sdram/cordicci.v|
+!i113 1
+o-work work
+Z3 tCvgOpt 0
+vcordiccitb
+!s110 1573704274
+!i10b 1
+!s100 AD08lWiRk^N8_JHEQAaIi0
+IUKocCn>A5;VB;UG0@4zCk3
+R1
+R0
+w1573686263
+8cordiccitb.v
+Fcordiccitb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1573704274.000000
+!s107 cordicci.v|cordiccitb.v|
+!s90 cordiccitb.v|cordicci.v|
+!i113 1
+R3
